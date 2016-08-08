@@ -1,0 +1,44 @@
+#u697-5
+{
+	color: #FFFFFF;
+	line-height: 40px;
+	font-size: 33px;
+	font-style: italic;
+	position: relative;
+}
+
+#u697
+{
+	color: #FF0000;
+}
+
+#u696_align_to_page,#menuu699,#u700,#u701,#u731,#u732,#u707,#u708,#u738,#u739,#u714,#u717
+{
+	position: relative;
+}
+
+#u702-4,#u734-4,#u711-4,#u740-4,#u720-4
+{
+	text-align: center;
+	font-size: 16px;
+	line-height: 19px;
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-weight: 800;
+	position: relative;
+}
+
+.MenuItem /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#u696,#u1577,#u1578
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #000000;
+	position: relative;
+}
+

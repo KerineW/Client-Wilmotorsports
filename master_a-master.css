@@ -1,0 +1,105 @@
+#u94-5
+{
+	color: #FFFFFF;
+	line-height: 35px;
+	font-size: 29px;
+	font-style: italic;
+	position: fixed;
+}
+
+#u94
+{
+	color: #FF0000;
+}
+
+#u231
+{
+	border-color: #000000;
+	position: fixed;
+	background: #FFFFFF url("about.jpg") no-repeat left top;
+	background-size: cover !important;
+}
+
+#u232
+{
+	border-color: #000000;
+	position: fixed;
+	background: #FFFFFF url("events.jpg") no-repeat left top;
+	background-size: cover !important;
+}
+
+#u233
+{
+	border-color: #000000;
+	position: fixed;
+	background: #FFFFFF url("mods.jpg") no-repeat left top;
+	background-size: cover !important;
+}
+
+#u234
+{
+	border-color: #000000;
+	position: fixed;
+	background: #FFFFFF url("contact.jpg") no-repeat left top;
+	background-size: cover !important;
+}
+
+#u259
+{
+	border-color: #000000;
+	position: fixed;
+	background: #FFFFFF url("image2.jpg") no-repeat left top;
+	background-size: cover !important;
+}
+
+#menuu182
+{
+	position: fixed;
+}
+
+#u183,#u186,#u211,#u214,#u197,#u198,#u190,#u191,#u204,#u205
+{
+	position: relative;
+}
+
+#u187-4,#u216-4,#u200-4,#u192-4,#u208-4
+{
+	text-align: center;
+	font-size: 16px;
+	line-height: 19px;
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-weight: 800;
+	position: relative;
+}
+
+.MenuItem /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#u230
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FF0000;
+	position: fixed;
+}
+
+#u93,#u181,#u1615
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #000000;
+	position: fixed;
+}
+
+#u686-5,#u689-5,#u690-5
+{
+	display: block;
+	vertical-align: top;
+	position: fixed;
+}
+
